@@ -14,21 +14,21 @@ I like to study those languages ​​when I have free time. you can support me 
 
 ### Frontend
 <div>
-<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,react,tailwind,ts,js,html,angular,svelte,latex,threejs,astro,bootstrap" />
+<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,tailwind,ts,js,html,latex,threejs,bootstrap" />
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Backend
 <div>
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,python,go,cs,rust,laravel,spring,django" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,python,laravel" />
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Database
 <div>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
 </div>
 
 </td><td valign="top" width="33%">
